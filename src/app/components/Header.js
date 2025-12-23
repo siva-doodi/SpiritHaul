@@ -32,7 +32,7 @@ export default function Header() {
             </Link>
           </nav>
 
-          {/* SOCIAL ICONS */}
+  
           <div className="flex items-center gap-4">
             <a
               href="https://facebook.com"

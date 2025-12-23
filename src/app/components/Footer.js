@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-[#ece9e4] w-full">
       
-      {/* MAIN FOOTER */}
+      
       <div className="max-w-7xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-2 gap-12">
 
         {/* LEFT – BRAND */}
