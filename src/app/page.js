@@ -1,6 +1,5 @@
+"use client";
 import Image from "next/image";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
 import HeroSection from "./components/home/HeroSection";
 import WhyChooseUs from "./components/home/WhyChooseUs";
 import ServicesHighlight from "./components/home/ServicesHighlight";
